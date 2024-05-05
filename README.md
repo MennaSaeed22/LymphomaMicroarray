@@ -44,6 +44,17 @@ Clustering algorithms have been used to group similar samples together based on 
 
 https://www.kaggle.com/datasets/mennaallahsaed/lymphoma
 
+## Contributors
+
+Lymphoma project is made possible by the contributions of the following team members:
+
+- Hager Mohamed - Data preprocessing + Exploration
+- Menna Allah Saed - Classification techniques + Resampling + Visulaization + Feature Importance
+- Reem Ibrahim - Filter Methods (VarianceThreshold + Correlation-based + SelectKBest)
+- Aya Ahmed- wrapper Methods (RFE + Forward Selection)
+- Retaj Ayman - Feature Extraction (PCA + Gaussian Random Projection)
+- Mohamed Hamdi - Clustering techniques + clustering visualization
+
 ## nbviewer link
 
 https://nbviewer.org/github/Menna2002/LymphomaMicroarray/blob/main/lymphoma-notebook.ipynb
