@@ -49,7 +49,7 @@ https://www.kaggle.com/datasets/mennaallahsaed/lymphoma
 Lymphoma project is made possible by the contributions of the following team members:
 
 - Hager Mohamed - Data Preprocessing +  Data Exploration
-- Menna Allah Saed - Classification techniques + Resampling + Visulaization + Feature Importance
+- Menna Allah Saed - Classification Techniques + Resampling + Visulaization + Feature Importance
 - Reem Ibrahim - Filter Methods (VarianceThreshold + Correlation-based + SelectKBest)
 - Aya Ahmed- Wrapper Methods (RFE + Forward Selection)
 - Retaj Ayman - Feature Extraction (PCA + Gaussian Random Projection)
