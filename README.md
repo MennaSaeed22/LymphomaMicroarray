@@ -40,7 +40,7 @@ Clustering algorithms have been used to group similar samples together based on 
 - Hierarchical Clustering
 - Density-Based Clustering (DBSCAN)
 
-## Source
+## Source of data
 
 https://www.kaggle.com/datasets/mennaallahsaed/lymphoma
 
