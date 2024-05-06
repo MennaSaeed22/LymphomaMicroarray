@@ -31,8 +31,8 @@ Feature extraction methods have been utilized to transform the original features
 ## Classification Techniques
 Various classification algorithms have been employed to predict the type of lymphoma based on gene expression profiles. These include but are not limited to:
 - Support Vector Machines (SVM)
-- k-Nearest Neighbors (kNN)
-- Neural Networks
+- k-Nearest Neighbors (KNN)
+- Neural Networks (NN)
 
 ## Clustering Techniques
 Clustering algorithms have been used to group similar samples together based on their gene expression patterns. This can provide insights into the underlying structure of the data and help identify subtypes or clusters within each lymphoma type. Common clustering methods include:
