@@ -54,7 +54,3 @@ Lymphoma project is made possible by the contributions of the following team mem
 - Aya Ahmed- Wrapper Methods (RFE + Forward Selection)
 - Retaj Ayman - Feature Extraction (PCA + Gaussian Random Projection)
 - Mohamed Hamdi - Clustering Techniques + Clustering Visualization
-
-## nbviewer link
-
-https://nbviewer.org/github/Menna2002/LymphomaMicroarray/blob/main/lymphoma-notebook.ipynb
